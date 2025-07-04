@@ -1,16 +1,5 @@
-# fugen
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/0c2c11ea-f32b-4f41-a205-cb288734749c" />
 
-A new Flutter project.
 
-## Getting Started
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/5ffcd432-f62b-451c-b623-d4b6e48ab0fa" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
